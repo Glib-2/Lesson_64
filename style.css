@@ -1,0 +1,14 @@
+.button{
+    background-image: linear-gradient(to right, rgb(233, 8, 132), rgb(127, 15, 150));
+    padding: 10px 5px 10px 5px;
+    border-radius: 15px;
+    color: white;
+    border: 0px;
+    transition-property: all;
+    transition-duration: 0.3s;
+}
+
+.button:hover{
+    padding: 15px 15px 15px 15px;
+    box-shadow:4px 4px 25px black;
+}
